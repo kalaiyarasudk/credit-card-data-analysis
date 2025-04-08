@@ -1,4 +1,4 @@
-# 💳 Credit Card Transactional Analysis for Fraud Risk (Industrial Project)
+# 💳 Credit Card Transactional Analysis for Fraud Risk
 
 This project is focused on building a real-time data pipeline for analyzing credit card transactions and detecting potential fraud. It leverages scalable data engineering tools and services on **Google Cloud Platform (GCP)** using **PySpark**, **Airflow**, and **CI/CD with GitHub Actions**.
 
